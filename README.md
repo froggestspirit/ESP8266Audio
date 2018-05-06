@@ -1,6 +1,8 @@
 SDAT Version 1.0
 -Some effects are not implemented yet, like 8-bit channels, Portamelo and Modulation
+
 -Bitrate may need to be lowered if lagging occurs
+
 -Only tested using Progmem
 
 # ESP8266Audio - supports ESP8266 & ESP32 [![Build Status](https://travis-ci.org/earlephilhower/ESP8266Audio.svg?branch=master)](https://travis-ci.org/earlephilhower/ESP8266Audio)
