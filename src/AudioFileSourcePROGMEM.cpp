@@ -96,4 +96,14 @@ uint32_t AudioFileSourcePROGMEM::read(void *data, uint32_t len)
   return toRead;
 }
 
+bool AudioFileSourcePROGMEM::seek_fast(int32_t pos)
+{
+  filePointer = pos;
+}
+
+uint8_t AudioFileSourcePROGMEM::read_fast()
+{
+	return *(uint8_t*)(progmemData+filePointer++);
+}
+
 
