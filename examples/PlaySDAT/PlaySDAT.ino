@@ -15,7 +15,7 @@
 AudioGeneratorNDS *nds;
 AudioFileSourcePROGMEM *sdat;
 AudioOutputI2S *dac;
-int song=30;
+int song=0;
 
 void setup()
 {
