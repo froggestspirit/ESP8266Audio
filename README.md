@@ -1,4 +1,5 @@
 SDAT Version 1.0
+
 -Some effects are not implemented yet, like 8-bit channels, Portamelo and Modulation
 
 -Bitrate may need to be lowered if lagging occurs
