@@ -1,4 +1,5 @@
 //SDAT Player 1.0 FroggestSpirit
+//Shoutout to Fincs for help with converting volume scales and articulation
 
 /*
   AudioGenerator
